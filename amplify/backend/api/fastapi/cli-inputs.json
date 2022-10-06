@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/user": {
+      "name": "/user",
+      "lambdaFunction": "amplifyconnect2e10eac5",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

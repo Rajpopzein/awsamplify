@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyconnect-dev-105753-authRole",
+      "UnauthRoleArn": "arn:aws:iam::892944769815:role/amplify-amplifyconnect-dev-105753-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::892944769815:role/amplify-amplifyconnect-dev-105753-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifyconnect-dev-105753-deployment",
+      "UnauthRoleName": "amplify-amplifyconnect-dev-105753-unauthRole",
+      "StackName": "amplify-amplifyconnect-dev-105753",
+      "StackId": "arn:aws:cloudformation:us-east-1:892944769815:stack/amplify-amplifyconnect-dev-105753/b8a6cb50-4537-11ed-8971-0e78cf112269",
+      "AmplifyAppId": "d2uxc9hr2qmpv"
+    },
+    "categories": {
+      "function": {
+        "amplifyconnect2e10eac5": {
+          "deploymentBucketName": "amplify-amplifyconnect-dev-105753-deployment",
+          "s3Key": "amplify-builds/amplifyconnect2e10eac5-6f36695054556b727547-build.zip"
+        }
+      },
+      "api": {
+        "fastapi": {}
+      }
+    }
+  }
+}
